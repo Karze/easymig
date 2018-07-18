@@ -1,0 +1,12 @@
+{
+    "name": "karze/easymig",
+    "description": "A easy tool for db migration",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chenrongrong",
+            "email": "crrkiller@163.com"
+        }
+    ],
+    "require": {}
+}
